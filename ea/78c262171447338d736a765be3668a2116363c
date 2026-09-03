@@ -1,0 +1,31 @@
+.changeset/tidy-pandas-listen.md
+  s_5dc87260d7ef58::t_7308a94695a8b7 1-7
+packages/vitest-plugin/src/pool/module-fallback.ts
+  s_5dc87260d7ef58::t_b14db05c5db80a 201-224,665
+packages/vitest-plugin/test/module-fallback.test.ts
+  s_9401a8e30bb3dc::t_26759bd7642d24 328-378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ea78c262171447338d736a765be3668a2116363c",
+  "prompts": {},
+  "sessions": {
+    "s_5dc87260d7ef58": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06279-20ee-79e1-847c-2457f31d267f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    },
+    "s_9401a8e30bb3dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06270-6ad4-7fa3-b1d3-269cd95b83e5",
+        "model": "unknown"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
